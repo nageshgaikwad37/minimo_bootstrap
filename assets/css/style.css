@@ -1,0 +1,205 @@
+<<<<<<< HEAD
+
+
+.header .nav-item a {
+    font-size: 15px;
+    text-transform: uppercase;
+    padding: 0 15px;
+    margin-left: 20px;
+}
+
+
+
+.heroimage{
+    margin-left: 20px;
+}
+
+.headingOne{
+    color: #b4ad9e;
+    font-size: 14px;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+}
+
+.headingTwo{
+    font-size: 30px;
+    margin-bottom: 25px;
+    color: #626262;
+}
+
+ .info .para {
+    color: #626262;
+    font-size: 14px;
+    margin-bottom: 3rem;
+}
+
+
+.post img{
+    width: 100%;
+    object-fit: cover;
+    height: 300px;
+}
+
+.signup{
+    background-color: #f0f0f0;
+}
+
+
+
+.inputTitle {
+    color: #333333;
+    margin-bottom: 65px;
+    margin-top: 20px;
+    text-transform: capitalize;
+}
+
+.input{
+    width: 30%;
+    padding: 10px 10px;
+    border: none;
+    border-bottom: 1px solid #626262;
+    background: transparent;
+}
+
+.fas{
+    margin-left: -20px;
+}
+
+
+.load-more {
+    font-size: 20px;
+    padding: 15px 25px;
+    border: 2px solid #626262;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+
+.footer{
+    background-color: #f0f0f0;
+}
+.footer .list{
+    list-style: none;
+}
+
+.footer .list li {
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 30px;
+}
+
+.footer li a i {
+    font-size: 15px;
+    padding: 10px 5px;
+    color: #333333;
+}
+
+@media all and (min-width:768px){
+    .comment{
+    margin: 50px 0;
+    display: block;
+}
+=======
+
+.header .nav-item a {
+    font-size: 16px;
+    text-transform: uppercase;
+    padding: 10px 15px 0 15px;
+    margin-left: 20px;
+}
+
+.header .nav-item a:hover, .header .nav-item a:active, .header .nav-item a:focus{
+    border-bottom: 2px solid orange;
+}
+
+.heroimage{
+    margin-left: 20px;
+}
+
+.headingOne{
+    color: #b4ad9e;
+    font-size: 14px;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+}
+
+.headingTwo{
+    font-size: 30px;
+    margin-bottom: 25px;
+    color: #626262;
+}
+
+ .info .para {
+    color: #626262;
+    font-size: 14px;
+    margin-bottom: 3rem;
+}
+
+
+.post img{
+    width: 100%;
+    object-fit: cover;
+    height: 300px;
+}
+
+.signup{
+    background-color: #f0f0f0;
+}
+
+
+
+.inputTitle {
+    color: #333333;
+    margin-bottom: 65px;
+    margin-top: 20px;
+    text-transform: capitalize;
+}
+
+.input{
+    width: 30%;
+    padding: 10px 10px;
+    border: none;
+    border-bottom: 1px solid #626262;
+    background: transparent;
+}
+
+.fas{
+    margin-left: -20px;
+}
+
+
+.load-more {
+    font-size: 20px;
+    padding: 15px 25px;
+    border: 2px solid #626262;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+
+.footer{
+    background-color: #f0f0f0;
+}
+.footer .list{
+    list-style: none;
+}
+
+.footer .list li {
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 30px;
+}
+
+.footer li a i {
+    font-size: 15px;
+    padding: 10px 5px;
+    color: #333333;
+}
+
+@media all and (min-width:768px){
+    .comment{
+    margin: 50px 0;
+    display: block;
+}
+>>>>>>> 888b778 (update header)
+}
